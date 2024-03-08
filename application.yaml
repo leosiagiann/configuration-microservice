@@ -1,3 +1,6 @@
 encrypt:
   security:
     secret-key: 0lhfjkfgoew35ije
+    salt: 0123456789abcdef
+    hashCount: 16
+    
