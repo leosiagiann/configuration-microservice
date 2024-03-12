@@ -3,4 +3,8 @@ encrypt:
     secret-key: 0lhfjkfgoew35ije
     salt: 0123456789abcdef
     hashCount: 16
-    
+  
+resource:
+  bundle:
+    message:
+      baseName: bundle_messages
